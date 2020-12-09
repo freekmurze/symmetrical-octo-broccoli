@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Freekmurze\SymmetricalOctoBroccoli\Tests;
 
 use PHPUnit\Framework\TestCase;
 

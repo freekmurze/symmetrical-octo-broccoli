@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "freekmurze/symmetrical-octo-broccoli",
+    "description": "",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "freekmurze",
+        "symmetrical-octo-broccoli"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/freekmurze/symmetrical-octo-broccoli",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "freek",
+            "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Freekmurze\\SymmetricalOctoBroccoli\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Freekmurze\\SymmetricalOctoBroccoli\\Tests\\": "tests"
         }
     },
     "scripts": {
